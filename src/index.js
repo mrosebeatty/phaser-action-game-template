@@ -17,7 +17,7 @@ var config = {
   scene: {
     preload,
     create,
-    update,
+   
   },
   physics: {
     default: "arcade",

@@ -1,6 +1,6 @@
-const world = {
-  player: undefined,
-  cpu: [],
-};
+// const world = {
+//   player: undefined,
+//   cpu: [],
+// };
 
-module.exports = world;
+// module.exports = world;
